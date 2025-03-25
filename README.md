@@ -1,5 +1,6 @@
-<p><img src="Assets/github-header-image.png" alt="Neha Alva"></p>
-<h1 align="center">Hi 👋, I'm Neha Naresh Alva</h1>
+
+<p><img src="https://github.com/nehaalva/nehaalva/blob/main/image%20assets/image1.jpg" alt="Neha Alva"></p>
+
 <h3 align="center">A passionate Design Engineer</h3>
 
 - 🔭 I’m currently Placed in **Daiseki Co. Ltd**
