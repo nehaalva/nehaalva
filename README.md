@@ -1,3 +1,4 @@
+<p><img src="Assets/github-header-image.png" alt="Neha Alva"></p>
 <h1 align="center">Hi 👋, I'm Neha Naresh Alva</h1>
 <h3 align="center">A passionate Design Engineer</h3>
 
